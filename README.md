@@ -1,2 +1,2 @@
 # git-practice
-learning
+I am a new comer of git.
